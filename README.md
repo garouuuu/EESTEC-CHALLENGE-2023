@@ -11,6 +11,6 @@ We worked in the 3 branches
 download the code from this repository and install expo on your phone
 ```
 npm install
-npm start
+npm start / expo start 
 ```
 
